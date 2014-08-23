@@ -3,7 +3,7 @@
 
 ---
 ###To intall:
-- `cd ~ && git clone https://github.com/skywinder/bin.git`
+- `cd ~ && git clone https://github.com/korolevsv/bin.git`
 
 - And don't forget to add this path to your **.bashrc/.zshrc/\*rc** file:
 `export PATH=$PATH:$HOME/bin`
